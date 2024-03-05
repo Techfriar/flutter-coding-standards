@@ -6,3 +6,10 @@
 - [Naming](./naming/naming.md)
 - [File Structure](./file_structure/file_structure.md)
 - [Release Note](./release_note/release_note.md)
+- [Comments]
+- [Request]
+- [Response]
+- [Configuration]
+- [Developer Testing]
+- [Debugging]
+- [Deployment]
